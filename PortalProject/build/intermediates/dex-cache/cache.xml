@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/dhika/Documents/androidproject/PortalProject/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/dhika/Documents/androidproject/PortalProject/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_ab965f992f01d855e4e7b08516d15bfbf8ab9250.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhika/Documents/androidproject/PortalProject/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/dhika/Documents/androidproject/PortalProject/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_1ce51f6fbf4d8310e3d4768800a797230b23fa10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhika/Documents/androidproject/PortalProject/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/dhika/Documents/androidproject/PortalProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_38a103940f17c167ccf782338dd8734970faf875.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhika/Documents/androidproject/PortalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/dhika/Documents/androidproject/PortalProject/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_59e6a34111a3a5db9c7c8a167e6fdb95620af22e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhika/Documents/androidproject/PortalProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/dhika/Documents/androidproject/PortalProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_dfcde27c8df33c06cf4c5ed11c6280b2d2fa8231.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhika/Documents/androidproject/PortalProject/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/dhika/Documents/androidproject/PortalProject/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_59f4a4fb4bb1e4e18e0c73ad3981b09c12302ae3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhika/Documents/androidproject/PortalProject/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7d8cc4573838c365c823e489ca417e6f146980b">
+        <dex dex="/home/dhika/Documents/androidproject/PortalProject/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_cc6b2617023494ed662831d50c110628d06b37fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhika/Documents/androidproject/PortalProject/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/dhika/Documents/androidproject/PortalProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_b6e6b03d8d99ca4948dbf18baa5fdcaf41f08286.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhika/Documents/androidproject/PortalProject/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/dhika/Documents/androidproject/PortalProject/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_0de20a3477d843aa8b4c9124bf4e5e9abe4b85e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhika/Documents/androidproject/PortalProject/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/dhika/Documents/androidproject/PortalProject/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_6e289e741488c03ed507311d47e51a070b12395b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhika/Documents/androidproject/PortalProject/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/dhika/Documents/androidproject/PortalProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_6eac9a6265e8fb281deaa61604afac0c23937ec8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhika/Documents/androidproject/PortalProject/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="837e6f2ca78b3da8a2520faded63273693117568">
+        <dex dex="/home/dhika/Documents/androidproject/PortalProject/app/build/intermediates/pre-dexed/debug/instant-run_a02b67b0cf93c06ce33e7f1ec2e781fe22c48bba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhika/Documents/androidproject/PortalProject/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/dhika/Documents/androidproject/PortalProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_0ad228faf44ccf7aa9ad9507a92d859c0985fd56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhika/Documents/androidproject/PortalProject/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/dhika/Documents/androidproject/PortalProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_6bdda1ee31764d6bc10a04d2c8d297e5e7fc8b02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhika/Documents/androidproject/PortalProject/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/dhika/Documents/androidproject/PortalProject/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_ea6ec10d5728f19217780887a62175737252f3a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhika/Documents/androidproject/PortalProject/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/dhika/Documents/androidproject/PortalProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_fdca4dd37b96bd7307584c9a35b2c3d5c12a5ca6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhika/Documents/androidproject/PortalProject/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/dhika/Documents/androidproject/PortalProject/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_2e46fa3c98d7444fa847fca7bf868a9dec851db0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhika/Documents/androidproject/PortalProject/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/dhika/Documents/androidproject/PortalProject/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_a297694b6d994b6438d9de7982e4771e2fad70db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/dhika/Documents/androidproject/PortalProject/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_bc102048a27ff00c8e10fc3a76afaa77fbe3d1bd.jar" />
+    </item>
+
+</items>
