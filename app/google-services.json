@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "581674080173",
+    "firebase_url": "https://tugas-a912e.firebaseio.com",
+    "project_id": "tugas-a912e",
+    "storage_bucket": "tugas-a912e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581674080173:android:dcfffb89337ce854",
+        "android_client_info": {
+          "package_name": "com.example.root.portalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581674080173-gapm29j73u9jtg1vvhc3grfgko6g93m0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [{ "current_key" : "" }],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
