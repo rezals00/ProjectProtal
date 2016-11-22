@@ -22,7 +22,12 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 
+import android.widget.ListView;
 import android.widget.TextView;
+import android.widget.Toast;
+
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
 
 import java.util.zip.Inflater;
 
@@ -32,6 +37,9 @@ public class MainActivity extends AppCompatActivity {
     public static String status;
     private ViewPager viewPager;
     private TabLayout tabLayout;
+    DatabaseReference mRoot = FirebaseDatabase.getInstance().getReference();
+    DatabaseReference mBerita = mRoot.child("Berita");
+    ListView Home,Motor,Mobil;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -78,6 +86,7 @@ public class MainActivity extends AppCompatActivity {
         viewPager.addOnPageChangeListener(new TabLayout.TabLayoutOnPageChangeListener(tabLayout));
         tabLayout.setTabsFromPagerAdapter(viewPagerAdapter);
     }
+
 
     private void setupToolbar() {
 
