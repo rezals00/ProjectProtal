@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         viewPager = (ViewPager) findViewById(R.id.viewPager);
         SharedPreferences data = getSharedPreferences("Data", Context.MODE_PRIVATE);
-        status = data.getString("status","Nothing");
+        status = data.getString("status","");
 
 
         setupToolbar();

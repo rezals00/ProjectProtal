@@ -10,4 +10,42 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.example.root.portalproject.InputBerita">
 
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textMultiLine"
+        android:ems="10"
+        android:id="@+id/IsiText"
+        android:hint="Isi Berita"
+        android:layout_below="@+id/TitleText"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="24dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_above="@+id/tambah" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textLongMessage"
+        android:ems="10"
+        android:id="@+id/TitleText"
+        android:hint="TItle Berita"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:text="Tambah Berita"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/tambah"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:background="@drawable/password_button" />
 </RelativeLayout>
