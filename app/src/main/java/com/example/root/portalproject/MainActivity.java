@@ -1,11 +1,13 @@
 package com.example.root.portalproject;
 
 import android.content.Context;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.support.design.widget.TabLayout;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
+import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 
@@ -110,8 +112,8 @@ public class MainActivity extends AppCompatActivity {
             this.startActivity(intent);
 
         }
-        if (id == R.id4action_logout) {
-            aertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(this);
+        if (id == R.id.action_logout) {
+            AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(this);
             alertDialogBuilder.setMessage("Are you sure you want to logout?");
             alertDialogBuilder.setPositiveButton("Yes",
                     new DialogInterface.OnClickListener() {
@@ -119,21 +121,17 @@ public class MainActivity extends AppCompatActivity {
                         public void onClick(DialogInterface arg0, int arg1) {
 
                             //Getting out sharedpreferences
-                            SharedPreferences preferences = getSharedPreferences(Config.SHARED_PREF_NAME,Context.MODE_PRIVATE);
+                            SharedPreferences preferences = getSharedPreferences("Data",Context.MODE_PRIVATE);
                             //Getting editor
                             SharedPreferences.Editor editor = preferences.edit();
 
-                            //Puting the value false for loggedin
-                            editor.putBoolean(Config.LOGGEDIN_SHARED_PREF, false);
-
-                            //Putting blank value to email
-                            editor.putString(Config.EMAIL_SHARED_PREF, "");
+                            editor.putString("status", "");
 
                             //Saving the sharedpreferences
                             editor.commit();
 
                             //Starting login activity
-                            Intent intent = new Intent(ProfileActivity.this, LoginActivity.class);
+                            Intent intent = new Intent(getApplicationContext(), LoginActivity.class);
                             startActivity(intent);
                         }
                     });
