@@ -2,238 +2,256 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="4a36600281a648769411ef642c331851732bf29e">
-        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.6.1_f709362f798c94648a7728cbb7c3d828dae525c5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_46239d4c2600a0fabed741a0f7264727ec374eb5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_2cdf9e095ba39ef1433d8d570af6292247d0521a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\rezab\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_4c3bac487912640c5c3904030bb464e68be10bb6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_1697c3d1c9d49301ff52f05d437347790e15635c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_6f56d035d44ff685c4090133b20748a8f7f724e5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui\0.3.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="5f34a8aeb0eaaa2d69752d56102a8c808117058e">
-        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\pre-dexed\debug\com.firebaseui-firebase-ui-0.3.1_ac0f19dbf33f73e4a16a558945255e13f245eb0b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
-        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.6.1_c177f069302321e856558541071c6f5e750b12cc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="ac8365c87591065db07f7bac8551504504832cd4">
-        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.6.1_61aac7cfb02b5200da74022badf0dd28511e72c9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
-        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.6.1_42ceb0bafa2cb930929cb94a7e53cf0c542310cd.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_266fb327450cd4efe7dbbf47be016db43eee14fe.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
-        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.6.1_ce9a63de66b6fa035fa495fda24ef5c1ea08dde4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_1d4af29a88e458b16cd29021bd3f633421a6b11d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
-        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.6.1_c0902d887c12e471b98d3d87c871023aa5413152.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
-        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.6.1_9aeda45ca176d5e2b4373419eed1a4b507e9f93f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_7003ded2f262d5684af8c3df9a4093e37a94ddd4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a90bb8c96863d0940bb0d59538731b9366228a19.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_a66e25ec1030b0a8858a4242b650299ae5f23edb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_3765739796fffd5d8f5769bef348cc380e64896e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_7bcb2968902c7751997394d60eec7e6cc746917d.jar" />
-    </item>
-    <item
-        is-multidex="false"
+        is-multidex="true"
         jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
-        jumboMode="false"
+        jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_a16924fa925dd775a5d8b5032fee32a003bb8251.jar" />
+        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_a16924fa925dd775a5d8b5032fee32a003bb8251\classes.dex" />
     </item>
     <item
-        is-multidex="false"
+        is-multidex="true"
+        jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_1d4af29a88e458b16cd29021bd3f633421a6b11d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.6.1_ce9a63de66b6fa035fa495fda24ef5c1ea08dde4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_7003ded2f262d5684af8c3df9a4093e37a94ddd4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a90bb8c96863d0940bb0d59538731b9366228a19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.6.1_c0902d887c12e471b98d3d87c871023aa5413152\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_3765739796fffd5d8f5769bef348cc380e64896e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_7bcb2968902c7751997394d60eec7e6cc746917d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_a66e25ec1030b0a8858a4242b650299ae5f23edb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.6.1_9aeda45ca176d5e2b4373419eed1a4b507e9f93f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.1\jars\classes.jar"
-        jumboMode="false"
+        jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
-        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.6.1_6158e4cc4b44d183c69cb637572c125931a1456b.jar" />
+        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.6.1_6158e4cc4b44d183c69cb637572c125931a1456b\classes.dex" />
     </item>
     <item
-        is-multidex="false"
+        is-multidex="true"
+        jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="018edccf2d897dfb716ca17e0c1aebca86106244">
+        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a1587d93fc72383786791b5aacd2e52508b0cf4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="false"
+        jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_8bd137a38c1a4c959d9f459ce87f4242cb022541.jar" />
+        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_8bd137a38c1a4c959d9f459ce87f4242cb022541\classes.dex" />
     </item>
     <item
-        is-multidex="false"
+        is-multidex="true"
         jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="false"
+        jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_f6951a995023e11133dd95fbdb1041c536b3c5a2.jar" />
+        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f6951a995023e11133dd95fbdb1041c536b3c5a2\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_00b20ec2dad52ff966c0bb0f6e6355dbda3e9cee.jar" />
-    </item>
-    <item
-        is-multidex="false"
+        is-multidex="true"
         jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="false"
+        jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_94921cd6be8487214b3ab11f40efa28300a60c46.jar" />
+        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_94921cd6be8487214b3ab11f40efa28300a60c46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="24d5dc59f08439a83188e9d968e05f42ce9cd4c8">
+        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_23e759a8a60a0f1a062ec2bbcf0f4e514ff12f29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_00b20ec2dad52ff966c0bb0f6e6355dbda3e9cee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_46239d4c2600a0fabed741a0f7264727ec374eb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.6.1_f709362f798c94648a7728cbb7c3d828dae525c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui\0.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f34a8aeb0eaaa2d69752d56102a8c808117058e">
+        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.firebaseui-firebase-ui-0.3.1_ac0f19dbf33f73e4a16a558945255e13f245eb0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_2cdf9e095ba39ef1433d8d570af6292247d0521a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rezab\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_4c3bac487912640c5c3904030bb464e68be10bb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_1697c3d1c9d49301ff52f05d437347790e15635c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_6f56d035d44ff685c4090133b20748a8f7f724e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_266fb327450cd4efe7dbbf47be016db43eee14fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.6.1_61aac7cfb02b5200da74022badf0dd28511e72c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.6.1_42ceb0bafa2cb930929cb94a7e53cf0c542310cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="C:\Users\rezab\OneDrive\Dokumen\ProjectProtal\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.6.1_c177f069302321e856558541071c6f5e750b12cc\classes.dex" />
     </item>
 
 </items>
