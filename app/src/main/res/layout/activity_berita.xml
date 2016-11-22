@@ -10,9 +10,4 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.example.root.portalproject.Berita">
 
-    <TextView
-        android:text="Memuat Berita"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:id="@+id/Berita" />
 </RelativeLayout>

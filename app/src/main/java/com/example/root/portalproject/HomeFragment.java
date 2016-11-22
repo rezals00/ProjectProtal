@@ -5,6 +5,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
+import android.os.SystemClock;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -20,6 +21,7 @@ import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.database.ValueEventListener;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -32,6 +34,7 @@ public class HomeFragment extends Fragment {
     DatabaseReference mBerita = mRoot.child("Berita");
     ListView          Home;
     ArrayList<String> Isinya = new ArrayList<>();
+    String            Fire   = "Berita Kosong";
 
     public HomeFragment() {
     }
@@ -48,13 +51,22 @@ public class HomeFragment extends Fragment {
         Home.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-                String value = adapter.getItem(position);
-                final SharedPreferences sharedPreferences = getContext().getSharedPreferences("Data", Context.MODE_PRIVATE);
-                SharedPreferences.Editor edit       = sharedPreferences.edit();
-                edit.putString("id",value);
-                edit.commit();
-                Intent intent = new Intent(getActivity(),Berita.class);
-                startActivity(intent);
+                final String value = adapter.getItem(position);
+                mBerita.child(value).addValueEventListener(new ValueEventListener() {
+                    @Override
+                    public void onDataChange(DataSnapshot dataSnapshot) {
+                        Fire = dataSnapshot.child("content").getValue().toString();
+                        Intent intent = new Intent(getActivity(),Berita.class);
+                        intent.putExtra("id",value);
+                        intent.putExtra("berita",Fire);
+                        startActivity(intent);
+                    }
+
+                    @Override
+                    public void onCancelled(DatabaseError databaseError) {
+
+                    }
+                });
 
             }
         });
@@ -75,6 +87,7 @@ public class HomeFragment extends Fragment {
 
             @Override
             public void onChildRemoved(DataSnapshot dataSnapshot) {
+                adapter.remove((String) dataSnapshot.getKey() );
 
             }
 

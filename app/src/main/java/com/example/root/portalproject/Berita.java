@@ -5,9 +5,12 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.text.Html;
+import android.webkit.WebView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.google.firebase.database.ChildEventListener;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
@@ -23,26 +26,17 @@ public class Berita extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_berita);
-        text  = (TextView) findViewById(R.id.Berita);
-        SharedPreferences data = getSharedPreferences("Data", Context.MODE_PRIVATE);
-        String id = data.getString("id","");
+        Intent Intent = getIntent();
+        String id = Intent.getStringExtra("id");
+        String Berita = Intent.getStringExtra("berita");
         if(id.isEmpty()){
             Intent intent = new Intent(getApplicationContext(),MainActivity.class);
             startActivity(intent);
         }
         setTitle(id);
-        mRoot.child("Berita").child(id).addValueEventListener(new ValueEventListener() {
-            @Override
-            public void onDataChange(DataSnapshot dataSnapshot) {
-                String Berita = dataSnapshot.child("content").getValue().toString();
-                text.setText(Berita);
 
-            }
-
-            @Override
-            public void onCancelled(DatabaseError databaseError) {
-
-            }
-        });
+        final WebView wb = new WebView(getApplicationContext());
+        wb.loadDataWithBaseURL(null, Berita, "text/html", "utf-8",null);
+        setContentView(wb);
     }
 }
